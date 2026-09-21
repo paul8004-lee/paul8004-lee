@@ -44,7 +44,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/paul8004-lee/paul8004-lee/output/snake.svg" width="98%" alt="contribution snake"/>
+<img src="https://raw.githubusercontent.com/paul8004-lee/paul8004-lee/refs/heads/output/snake.svg" width="98%" alt="contribution snake"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:22D3EE,55:7C3AED,100:0D1117&section=footer" width="100%" alt="footer"/>
 
